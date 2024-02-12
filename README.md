@@ -22,5 +22,4 @@ Development slowed.
 Agathe BOUIS with acknowledgements to the Applied Space Technology Laboratory (ApSTL) group at the University of Strathclyde, including Dr. Astrid Werkmeister, Joshua Gribben, Dr. Ruaridh Clark, and Prof. Malcolm Macdonald. 
 
 ## DOI: 
-10.5281/zenodo.10650712
 [![DOI](https://zenodo.org/badge/756334943.svg)](https://zenodo.org/doi/10.5281/zenodo.10650711)
