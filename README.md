@@ -1,7 +1,7 @@
 # ODDI-C Algorithm and its Numerical Validations
 
 ## BACKGROUND:
-Opinion Dynamics-inspired DIsruption-tolerant Consensus (ODDI-C) is distributed dynamic consensus algorithm for static digraph networks. 
+Opinion Dynamics-inspired DIsruption-tolerant Consensus (ODDI-C) is distributed dynamic consensus algorithm for static directed multi-agent networks dealing with unknown disruptors.  ODDI-C is implemented by cooperative system nodes and enables them to reach a resilient consensus without the need for a central authority, in spite of the presence of disruptors. The algorithm requires no information regarding network topology nor the number and behaviours of the disruptors.  
 
 The algorithm adapts the concept of tolerance from social systems, using an analogous approach to the Deffuant Model for its update and filtering. By inverting typical social tolerance, agents filter out extremist non-standard opinions that would drive them away from consensus. This approach allows distributed systems to deal with unknown disruptions, without knowledge of the network topology or the numbers and behaviours of the disruptors. A disruptor-agnostic algorithm is particularly suitable to real-world applications where this information is typically unknown. Faster and tighter convergence can be achieved across a range of scenarios with the social dynamics inspired algorithm, compared with standard Mean-Subsequence-Reduced (MSR)-type methods.
 
